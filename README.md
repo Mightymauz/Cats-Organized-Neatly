@@ -1,16 +1,16 @@
-Drop the .zip into your Portmaster folder 
+# Title: Cats Organized Neatly
 
-Game Information
+### Steam URL: 
+https://store.steampowered.com/app/1369340/Cats_Organized_Neatly/ 
 
-##Title: Cats Organized Neatly##
+### Info: 
+In this 2D puzzle game you have the responsibility to arrange your feline friends in a way that fits the grid. Cats Organized Neatly comes with 80 different handcrafted levels and a whole bunch of cats in all shapes and sizes. 
 
-Steam URL: https://store.steampowered.com/app/1369340/Cats_Organized_Neatly/ 
-
-Info: In this 2D puzzle game you have the responsibility to arrange your feline friends in a way that fits the grid. Cats Organized Neatly comes with 80 different handcrafted levels and a whole bunch of cats in all shapes and sizes. 
-
-Instructions:
+## Instructions:
+Drop .zip into Portmaster folder
 Place all game assets from Steam install in catsorganizedneatly/assets
 
+## Controls
 | Button | Action |
 |--|--|
 | D-Pad / Left Stick | Move cursor |
@@ -20,17 +20,22 @@ Place all game assets from Steam install in catsorganizedneatly/assets
 Note:
 It does patch audio and compress some textures, takes ~7-10m on first run
 
-CFW Tests:
-[] AmberELEC
-[] dArkOS
-[x] MuOS
-[x] ROCKNIX
-[] Knulli
+## CFW Tests:
+| Tested | OS |
+|--|--|
+| [] | AmberELEC |
+| [] | dArkOS |
+| [x] | MuOS |
+| [x] | ROCKNIX |
+| [] | Knulli |
 
-Resolutions:
-[ ] 480x320 (Optional)
-[x] 640x480
-[x] 720x720 (RGB30) (Optional)
-[] Higher resolutions (e.g., 1280)
+## Resolutions:
+| Tested | OS |
+|--|--|
+| [ ] | 480x320 (Optional) |
+| [x] | 640x480 |
+| [x] | 720x720 (RGB30) (Optional) |
+| [] | Higher resolutions (e.g., 1280) |
 
-AI Usage: ChatGPT help for some scripts, troubleshooting, debugging
+### AI Usage: 
+ChatGPT help for some scripts, troubleshooting, debugging
