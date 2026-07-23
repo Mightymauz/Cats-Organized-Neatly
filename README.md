@@ -17,7 +17,7 @@ Place all game assets from Steam install in catsorganizedneatly/assets
 | A | Mouse left-click (Move object) |
 | B | Mouse right-click (Rotate object) |
 
-Note:
+### Note:
 It does patch audio and compress some textures, takes ~7-10m on first run
 
 ## CFW Tests:
