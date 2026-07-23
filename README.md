@@ -1,4 +1,4 @@
-# Title: Cats Organized Neatly
+# Cats Organized Neatly 🐈 😻
 
 ### Steam URL: 
 https://store.steampowered.com/app/1369340/Cats_Organized_Neatly/ 
