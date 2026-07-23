@@ -9,4 +9,5 @@ sdl cursor adds a cursor to the game
 JohnnyOnFlame -- GMLoader-Next  
 Jeod -- based off of Ooo port
 Ganimoth -- adding in sdl cursor
+
 Fraxinus88 -- rearchitecting port with better gmloader structure and cleanup
